@@ -1,6 +1,6 @@
 # The Complete Journey of DSPy & Agentic RAG: From Zero to Master 🚀
 
-*Think of me as your patient sensei, and we're going to build this knowledge brick by brick, so it sticks in your mind forever!*
+*we're going to build this knowledge brick by brick, so it sticks in your mind forever!*
 
 ## Chapter 1: The Birth of a Problem - Why Traditional RAG Isn't Enough
 
